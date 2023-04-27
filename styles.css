@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.player_one{
+	background-color : white;
+	border : 1px solid;
+}
+/* .main{
+	background-color : lightgrey;
+	padding : 20px;
+} */
+body{
+	background-color : #cccccc;
+}
