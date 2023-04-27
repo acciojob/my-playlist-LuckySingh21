@@ -7,6 +7,9 @@
 	background-color : white;
 	border : 1px solid;
 }
+a{
+	text-decoration-line : none;
+}
 /* .main{
 	background-color : lightgrey;
 	padding : 20px;
